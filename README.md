@@ -63,6 +63,13 @@ Solution found! Output files generated.
   ```
 - If **Python is not recognized**, ensure it is installed and added to your system **PATH**.
 - If execution is slow, try **running in a dedicated terminal** instead of VS Code’s built-in terminal.
+## 📸 Puzzle Animation Example
+
+Below is an example animation of the 8-Puzzle being solved step by step:
+
+![8 Puzzle Animation](8puzzle_animation.gif)
+
+> This GIF is auto-generated after running `animate.py`.
 
 
 ## Conclusion
